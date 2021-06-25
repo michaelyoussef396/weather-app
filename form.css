@@ -4,10 +4,14 @@ body {
     background-size: cover;
     background-position: top center;
 }
-
 header {
     display: flex;
-    justify-content: center;
-    align-items: center;
     padding: 50px 15px 15px;
+}
+table{
+margin: auto;
+   background-color:rgba(75, 135, 231, 0.26);
+}
+.fr{
+    float: right;
 }
